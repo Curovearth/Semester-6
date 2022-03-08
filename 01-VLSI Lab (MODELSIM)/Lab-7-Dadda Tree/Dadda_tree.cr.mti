@@ -1,0 +1,29 @@
+{C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-6-Dadda Tree/halfadder.v} {1 {vlog -work work -vopt -stats=none {C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-6-Dadda Tree/halfadder.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module halfadder_19BEE0167
+
+Top level modules:
+	halfadder_19BEE0167
+
+} {} {}} {C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-6-Dadda Tree/fulladder.v} {1 {vlog -work work -vopt -stats=none {C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-6-Dadda Tree/fulladder.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module fulladder_19BEE067
+
+Top level modules:
+	fulladder_19BEE067
+
+} {} {}} {C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-6-Dadda Tree/dadda_testbench.v} {1 {vlog -work work -vopt -stats=none {C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-6-Dadda Tree/dadda_testbench.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module test_dt_4b_19BEE0167
+
+Top level modules:
+	test_dt_4b_19BEE0167
+
+} {} {}} {C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-6-Dadda Tree/dadda_designcode.v} {1 {vlog -work work -vopt -stats=none {C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-6-Dadda Tree/dadda_designcode.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module dt_4b_19BEE0167
+
+Top level modules:
+	dt_4b_19BEE0167
+
+} {} {}}

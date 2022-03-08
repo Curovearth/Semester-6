@@ -1,0 +1,16 @@
+{C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-2-Ripple Adder/ripple_adder_test.v} {1 {vlog -work work -vopt -stats=none {C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-2-Ripple Adder/ripple_adder_test.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module rca_4bit_test
+
+Top level modules:
+	rca_4bit_test
+
+} {} {}} {C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-2-Ripple Adder/rippleadder.v} {1 {vlog -work work -vopt -stats=none {C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-2-Ripple Adder/rippleadder.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module fa_df
+-- Compiling module rca_4bit_19BEE0167
+
+Top level modules:
+	rca_4bit_19BEE0167
+
+} {} {}}

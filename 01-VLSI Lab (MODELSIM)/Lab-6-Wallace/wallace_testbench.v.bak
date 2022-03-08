@@ -1,0 +1,16 @@
+
+module test_wallace_19BEE0167:
+reg[3:0]A,B;
+
+wire[7:0]S;
+reg[7:0]check;
+
+wallace_19BEE0167 uut(A,B,S);
+initial repeat(10) begin
+A = $random;
+B = $random;
+
+check = A*B;
+#10 $display($time, "%d*%d=%d(%d)",A,B,S,check);
+end
+endmodule

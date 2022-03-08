@@ -1,0 +1,135 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-6-Dadda Tree
+vfull_adder
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 miFl?>DfNDWGIhk5C81?=3
+Ii?8^NVK_=0]5UJZRb=1>T0
+Z1 dC:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-6-Wallace
+w1646213040
+8C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-6-Wallace/fulladder.v
+FC:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-6-Wallace/fulladder.v
+L0 2
+Z2 OL;L;10.6d;65
+Z3 !s108 1646213061.000000
+!s107 C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-6-Wallace/fulladder.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-6-Wallace/fulladder.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z5 tCvgOpt 0
+vfull_adder_19BEE0167
+Z6 !s110 1646212699
+!i10b 1
+!s100 ?8m9RXD;c:9]3YGGbNaDN1
+I<Lb>Y8dZ1LLPFmh^;=4P^3
+R0
+R1
+w1646211741
+8C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-7-Dadda Tree/fulladder.v
+FC:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-7-Dadda Tree/fulladder.v
+L0 1
+R2
+r1
+!s85 0
+31
+Z7 !s108 1646212699.000000
+!s107 C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-7-Dadda Tree/fulladder.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-7-Dadda Tree/fulladder.v|
+!i113 0
+R4
+R5
+nfull_adder_19@b@e@e0167
+vhalf_adder
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 _3JfTQRd4;zDCC=lM:fP=2
+IT6>^<o`8fVj59LMb:mKF<2
+R1
+w1646213041
+8C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-6-Wallace/halfadder.v
+FC:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-6-Wallace/halfadder.v
+L0 2
+R2
+R3
+!s107 C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-6-Wallace/halfadder.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-6-Wallace/halfadder.v|
+!i113 0
+R4
+R5
+vhalf_adder_19BEE0167
+R6
+!i10b 1
+!s100 A49f1jMg:5Ebzlae<`Vj^0
+I0fPeGTGQ^WRJe9QS:BcNK1
+R0
+R1
+w1646211244
+8C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-7-Dadda Tree/halfadder.v
+FC:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-7-Dadda Tree/halfadder.v
+L0 1
+R2
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-7-Dadda Tree/halfadder.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-7-Dadda Tree/halfadder.v|
+!i113 0
+R4
+R5
+nhalf_adder_19@b@e@e0167
+vtest_wallace_tree
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 k6j]9[1LQVB7fhDAJh@O[3
+IR>_fNa2JZXU]EL@W8R4ER3
+R1
+w1646212672
+8C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-6-Wallace/wallace_testbench.v
+FC:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-6-Wallace/wallace_testbench.v
+L0 1
+R2
+R3
+!s107 C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-6-Wallace/wallace_testbench.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-6-Wallace/wallace_testbench.v|
+!i113 0
+R4
+R5
+vwallace_tree_19BEE0167
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 L0a:TZO`c2JU2SJ@LMaQz1
+I]8j_cQ`Ml7CAAJf0>lK150
+R1
+w1646213049
+8C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-6-Wallace/wallace_designcode.v
+FC:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-6-Wallace/wallace_designcode.v
+L0 2
+R2
+R3
+!s107 C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-6-Wallace/wallace_designcode.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-6-Wallace/wallace_designcode.v|
+!i113 0
+R4
+R5
+nwallace_tree_19@b@e@e0167

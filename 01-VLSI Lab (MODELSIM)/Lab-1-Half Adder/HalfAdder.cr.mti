@@ -1,0 +1,9 @@
+{C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-1-Half Adder/halfadder.v} {1 {vlog -work work -vopt -stats=none {C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-1-Half Adder/halfadder.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module half_add_19BEE0167
+-- Compiling module testbenchforhalfadder
+
+Top level modules:
+	testbenchforhalfadder
+
+} {} {}}

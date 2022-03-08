@@ -1,0 +1,51 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/modeltech64_10.6d/examples
+vhalf_add_19BEE0167
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 47R2XKPO9138RoJI@idg;1
+I0[La8BYK0jeCFE4RH0N@41
+Z1 dC:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-1-Half Adder
+Z2 w1641979080
+Z3 8C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-1-Half Adder/halfadder.v
+Z4 FC:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-1-Half Adder/halfadder.v
+L0 1
+Z5 OL;L;10.6d;65
+Z6 !s108 1641979322.000000
+Z7 !s107 C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-1-Half Adder/halfadder.v|
+Z8 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-1-Half Adder/halfadder.v|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 tCvgOpt 0
+nhalf_add_19@b@e@e0167
+vtestbenchforhalfadder
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 Pj_3:o[Ekk3mGSbgGj]gz2
+I0[NAX4@zECd3T:7ck_f;Y2
+R1
+R2
+R3
+R4
+L0 8
+R5
+R6
+R7
+R8
+!i113 0
+R9
+R10

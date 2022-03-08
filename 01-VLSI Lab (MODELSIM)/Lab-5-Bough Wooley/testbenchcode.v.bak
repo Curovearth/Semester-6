@@ -1,0 +1,17 @@
+[12/02, 9:02 PM] +91 99998 97964: module bw_4b_19BEE0281_test;
+reg signed[3:0]A,B;
+wire signed[7:0]Sum;
+reg signed[7:0]check;
+
+bw_4b_19BEE0281 uut(A,B,Sum);
+initial repeat(10) begin
+A = $random;
+B = $random;
+check = A*B;
+#10 $display($time,"%d*%d=%d(%d)",A,B,Sum,check);
+end
+endmodule
+[12/02, 9:02 PM] +91 99998 97964: module fulladder(input a,b,Cin,output sum,Cout);
+assign sum=a^b^Cin;
+assign Cout=(a&b)|(Cin&(a^b));
+endmodule

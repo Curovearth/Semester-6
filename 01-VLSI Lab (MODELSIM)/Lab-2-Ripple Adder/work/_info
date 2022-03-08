@@ -1,0 +1,71 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-1-Half Adder
+vfa_df
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 :?0[KXmafCEGJV^1MakaK1
+IIz?<Wk7>Ge`KU]N:JEmF82
+Z1 dC:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-2-Ripple Adder
+Z2 w1642583314
+Z3 8C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-2-Ripple Adder/rippleadder.v
+Z4 FC:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-2-Ripple Adder/rippleadder.v
+L0 2
+Z5 OL;L;10.6d;65
+Z6 !s108 1642584011.000000
+Z7 !s107 C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-2-Ripple Adder/rippleadder.v|
+Z8 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-2-Ripple Adder/rippleadder.v|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 tCvgOpt 0
+vrca_4bit_19BEE0167
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 0FbUiJ`I`D<N?:8VH_32A3
+I=KC@h?[QVW?Ac50YAE7T23
+R1
+R2
+R3
+R4
+L0 8
+R5
+R6
+R7
+R8
+!i113 0
+R9
+R10
+nrca_4bit_19@b@e@e0167
+vrca_4bit_test
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 CMc?:Q`E2Lk]?X0;e2UP=0
+IageZ2F?JZXKQeoV;TA^C^1
+R1
+w1642583987
+8C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-2-Ripple Adder/ripple_adder_test.v
+FC:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-2-Ripple Adder/ripple_adder_test.v
+L0 2
+R5
+R6
+!s107 C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-2-Ripple Adder/ripple_adder_test.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-2-Ripple Adder/ripple_adder_test.v|
+!i113 0
+R9
+R10

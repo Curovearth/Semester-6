@@ -1,0 +1,15 @@
+module cla_4bit_19bee0167_test;
+reg [3:0]A,B;
+reg cin;
+wire [4:0]S;
+reg [4:0]check;
+
+cla_4bit_19bee0167 uut(A,B,cin,S);
+initial repeat(10) begin
+A = $random;
+B = $random;
+cin = $random;
+check = A+B+cin;
+#10 $display($time,"%d +%d+%d=%d(%d)",A,B,cin,S,check);
+end
+endmodule

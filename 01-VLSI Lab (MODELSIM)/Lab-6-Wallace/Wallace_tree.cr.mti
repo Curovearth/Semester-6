@@ -1,0 +1,29 @@
+{C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-6-Wallace/wallace_testbench.v} {1 {vlog -work work -vopt -stats=none {C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-6-Wallace/wallace_testbench.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module test_wallace_tree
+
+Top level modules:
+	test_wallace_tree
+
+} {} {}} {C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-6-Wallace/wallace_designcode.v} {1 {vlog -work work -vopt -stats=none {C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-6-Wallace/wallace_designcode.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module wallace_tree_19BEE0167
+
+Top level modules:
+	wallace_tree_19BEE0167
+
+} {} {}} {C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-6-Wallace/halfadder.v} {1 {vlog -work work -vopt -stats=none {C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-6-Wallace/halfadder.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module half_adder
+
+Top level modules:
+	half_adder
+
+} {} {}} {C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-6-Wallace/fulladder.v} {1 {vlog -work work -vopt -stats=none {C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-6-Wallace/fulladder.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module full_adder
+
+Top level modules:
+	full_adder
+
+} {} {}}

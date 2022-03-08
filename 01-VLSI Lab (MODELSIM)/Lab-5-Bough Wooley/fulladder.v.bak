@@ -1,0 +1,4 @@
+[12/02, 9:02 PM] +91 99998 97964: module fulladder(input a,b,Cin,output sum,Cout);
+assign sum=a^b^Cin;
+assign Cout=(a&b)|(Cin&(a^b));
+endmodule

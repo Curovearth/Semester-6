@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-2-Ripple Adder
+vcla_4bit_19bee0167
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 d>TMWeB;@GRZ??YNH6cGG2
+InoUa1Bf<I_fb2Sf:_:3eF3
+Z1 dC:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-3-Carry loop Adder
+w1643792568
+8C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-3-Carry loop Adder/cla_4bit_19bee0167.v
+FC:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-3-Carry loop Adder/cla_4bit_19bee0167.v
+L0 2
+Z2 OL;L;10.6d;65
+Z3 !s108 1643792570.000000
+!s107 C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-3-Carry loop Adder/cla_4bit_19bee0167.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-3-Carry loop Adder/cla_4bit_19bee0167.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z5 tCvgOpt 0
+vcla_test_4bit_19bee0167
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 KcKFm301UO1[O0`f02Nc<0
+INdodVUg4TJ8oH7HOTHWJn0
+R1
+w1643792508
+8C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-3-Carry loop Adder/cla_4bit_Testbench_19bee0167.v
+FC:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-3-Carry loop Adder/cla_4bit_Testbench_19bee0167.v
+L0 1
+R2
+R3
+!s107 C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-3-Carry loop Adder/cla_4bit_Testbench_19bee0167.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-3-Carry loop Adder/cla_4bit_Testbench_19bee0167.v|
+!i113 0
+R4
+R5
