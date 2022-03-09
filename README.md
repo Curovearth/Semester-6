@@ -7,3 +7,7 @@ The following repository consists of some the lab work done in the following men
 ## What all to do?
 - [ ] Add README.md for every folder explaining a bit 
 - [ ] Update the main README.md for the repository
+
+## References
+
+- Latex Template used from <a href='https://www.overleaf.com/latex/templates/dc-slash-gtc-report-template-for-m-dot-s-ph-dot-d-students-iit-madras/tnpvfmfhqpyt'>IIT Madras</a>
