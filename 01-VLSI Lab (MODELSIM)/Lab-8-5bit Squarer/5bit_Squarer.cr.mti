@@ -1,0 +1,29 @@
+{C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-8-5bit Squarer/squarer_testbench.v} {1 {vlog -work work -vopt -stats=none {C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-8-5bit Squarer/squarer_testbench.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module tb_squarer_5bit_19BEE0167_test
+
+Top level modules:
+	tb_squarer_5bit_19BEE0167_test
+
+} {} {}} {C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-8-5bit Squarer/squarer_designcode.v} {1 {vlog -work work -vopt -stats=none {C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-8-5bit Squarer/squarer_designcode.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module squarer_5bit_19BEE0167
+
+Top level modules:
+	squarer_5bit_19BEE0167
+
+} {} {}} {C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-8-5bit Squarer/halfadder.v} {1 {vlog -work work -vopt -stats=none {C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-8-5bit Squarer/halfadder.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module ha_df_19BEE0167
+
+Top level modules:
+	ha_df_19BEE0167
+
+} {} {}} {C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-8-5bit Squarer/fulladder.v} {1 {vlog -work work -vopt -stats=none {C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-8-5bit Squarer/fulladder.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module fa_df_19BEE0167
+
+Top level modules:
+	fa_df_19BEE0167
+
+} {} {}}
