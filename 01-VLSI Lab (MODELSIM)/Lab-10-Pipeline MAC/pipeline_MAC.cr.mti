@@ -1,0 +1,36 @@
+{C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-10-Pipeline MAC/pipo4bit.v} {1 {vlog -work work -vopt -stats=none {C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-10-Pipeline MAC/pipo4bit.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module pipo_4b
+
+Top level modules:
+	pipo_4b
+
+} {} {}} {C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-10-Pipeline MAC/pipo8bit.v} {1 {vlog -work work -vopt -stats=none {C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-10-Pipeline MAC/pipo8bit.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module pipo_8b
+
+Top level modules:
+	pipo_8b
+
+} {} {}} {C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-10-Pipeline MAC/pipo10bit.v} {1 {vlog -work work -vopt -stats=none {C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-10-Pipeline MAC/pipo10bit.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module pipo_10b
+
+Top level modules:
+	pipo_10b
+
+} {} {}} {C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-10-Pipeline MAC/testbench_pipeline.v} {1 {vlog -work work -vopt -stats=none {C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-10-Pipeline MAC/testbench_pipeline.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module pipeline_MAC_test
+
+Top level modules:
+	pipeline_MAC_test
+
+} {} {}} {C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-10-Pipeline MAC/designcode_pipeline.v} {1 {vlog -work work -vopt -stats=none {C:/Users/iwill/Desktop/VIT/Semester 6/VLSI Lab/Lab-10-Pipeline MAC/designcode_pipeline.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module pipeline_MAC
+
+Top level modules:
+	pipeline_MAC
+
+} {} {}}
